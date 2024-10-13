@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: 'https://cdn.luogu.com.cn/upload/image_hosting/7b8zxy39.png?x-oss-process=image/circle,r_120/format,png',
+  icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
   title: "MYLHF's OneDrive",
